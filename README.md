@@ -14,6 +14,3 @@ This repository contains my solutions to the Apprenticeship Entry Test, covering
 ## 🧑‍💻 Author
 
 **Wendy Atieno**  
-🌍 Kenya  
-📧 your.email@example.com  
-💼 [LinkedIn or GitHub Profile]
